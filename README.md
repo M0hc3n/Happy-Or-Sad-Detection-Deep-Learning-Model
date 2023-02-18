@@ -1,5 +1,5 @@
 # Happy-Or-Sad-Detection-Deep-Learning-Model
-this is a simple deep learning model to detect whether a person is happy or sad.  
+This is a simple deep learning model to detect whether a person is happy or sad.  
 
 ## Data Collection
 the data used was retrieved from the web using a great extention called <a href="https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm">Download All Images</a>.
